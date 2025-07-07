@@ -24,5 +24,5 @@
 - Octave (básico)
 - AutoCAD (intermediário)
 - Revit (básico)
-- Qibuilder (básico)
+- Qibuilder Elétrico (básico)
 
