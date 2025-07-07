@@ -22,4 +22,7 @@
 - Excel (intermediário)
 - ETAP (básico)
 - Octave (básico)
+- AutoCAD (intermediário)
+- Revit (básico)
+- Qibuilder (básico)
 
