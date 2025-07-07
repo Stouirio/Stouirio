@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! 
 
-<!--
-**Stouirio/Stouirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  ⭐ Sobre mim
 
-Here are some ideas to get you started:
+- Formada em Eletrotécnica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cursando Engenharia Elétrica
+
+- Estagiando no DINFRA - Reitoria do IFMT
+
+- Curiosa em programação
+
+- Bolsista em projeto de pesquisa:  
+  *"Estudo de Modelagem Computacional de Usinas Fotovoltaicas para Sistemas de Proteção de Sobrecorrente com Protótipo de Relé de Baixo Custo em Eletrônica Embarcada"*
+  
+- Voluntária em projeto de extensão:  
+  *"Docência no ensino profissional e tecnológico do IFMT, interdisciplinaridade e as tecnologias transversais"*
+
+## ⭐ Tecnologias e Ferramentas
+
+- Python (iniciante)
+- Excel (intermediário)
+- ETAP (básico)
+- Octave (básico)
+
